@@ -1,0 +1,4 @@
+[
+    {"instruction": "Translate to French", "input": "Hello, how are you?", "output": "Bonjour, comment ça va?"},
+    {"instruction": "Summarize the text", "input": "Long article content...", "output": "Brief summary here."}
+]

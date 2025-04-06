@@ -10,6 +10,7 @@ from functools import lru_cache
 import os
 from PyPDF2 import PdfReader
 import json
+import time
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
